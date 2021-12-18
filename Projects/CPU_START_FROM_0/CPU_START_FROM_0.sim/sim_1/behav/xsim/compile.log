@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sources_1/ip/ProgramMemory/sim/ProgramMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProgramMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sources_1/new/CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-2458] undeclared symbol Q, assumed default net type wire [V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sources_1/new/CPU.v:257]
+INFO: [VRFC 10-2263] Analyzing Verilog file "V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sources_1/new/CalPart.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CalPart
+WARNING: [VRFC 10-3380] identifier 'R' is used before its declaration [V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sources_1/new/CalPart.v:46]
+INFO: [VRFC 10-2263] Analyzing Verilog file "V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sources_1/new/MemoryPart.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MemoryPart
+INFO: [VRFC 10-2263] Analyzing Verilog file "V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sources_1/new/RF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF
+INFO: [VRFC 10-2263] Analyzing Verilog file "V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.srcs/sim_1/new/tb_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "V:/ARISC_V/CPU_start_from_0/Projects/CPU_START_FROM_0/CPU_START_FROM_0.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

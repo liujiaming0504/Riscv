@@ -1,0 +1,13 @@
+
+*** Running vivado
+    with args -log CPU.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source CPU.tcl
+
+
+****** Vivado v2019.2 (64-bit)
+  **** SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+  **** IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source CPU.tcl -notrace
+ERROR: [Vivado 12-172] File or Directory 'c:/Users/yufan lu/OneDrive/Vivado Projects/CPU_START_FROM_0/programs.coe' does not exist
+INFO: [Common 17-206] Exiting Vivado at Fri May  1 00:03:14 2020...
